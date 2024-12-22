@@ -1,0 +1,6 @@
+kafka-spark connection
+org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0
+
+MySQL maven---->
+mysql:mysql-connector-java:8.0.26
+
